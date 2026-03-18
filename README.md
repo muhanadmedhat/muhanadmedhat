@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+things+that+matter+%F0%9F%9A%80;Full-Stack+.NET+%26+Web+Developer;Competitive+Programmer+%F0%9F%A7%A0;52%2B+repos+and+still+shipping..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+things+that+matter+%F0%9F%9A%80;Full-Stack+.NET+%26+Web+Developer;Competitive+Programmer+%F0%9F%A7%A0;52%2B+repos+and+still+shipping..." alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -76,16 +76,77 @@ const muhanad = {
 
 ## 🚀 Featured Projects
 
+### 📚 ChapterOne — Full-Stack Online Bookstore
+> A premier full-stack online bookstore — deployed live on Vercel with a polished React UI and a robust REST API backend. The most complete project in the portfolio.
+
 <div align="center">
 
-| Project | Description | Tech |
-|:-------:|:-----------:|:----:|
-| 🏪 [**Store.Muhanad.API**](https://github.com/muhanadmedhat/Store.Muhanad.API) | E-commerce RESTful API with clean layered architecture (APIs · Core · Repository · Service) | `C#` `.NET` `Clean Arch` |
-| 🏢 [**Company.Muhanad-Solution**](https://github.com/muhanadmedhat/Company.Muhanad-solution) | Full-stack company management app with BLL / DAL / PL architecture | `C#` `HTML` `CSS` `JS` |
-| 👕 [**StreetWears Website**](https://github.com/muhanadmedhat/StreetWears_Website) | Responsive streetwear e-commerce frontend | `HTML` `CSS` `JavaScript` |
-| 📐 [**OOP Exam Solutions**](https://github.com/muhanadmedhat/OOP-Exam-Solution) | Object-oriented design & problem-solving exercises | `C#` |
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_ChapterOne-22c55e?style=for-the-badge)](https://online-bookstore-frontend-vert.vercel.app/home)
+[![Frontend Repo](https://img.shields.io/badge/⚛️_Frontend-bookstore--frontend-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhanadmedhat/bookstore-frontend)
+[![Backend Repo](https://img.shields.io/badge/⚙️_Backend-bookstore--backend-f97316?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhanadmedhat/bookstore-backend)
 
 </div>
+
+| Layer | Tech |
+|:-----:|:----:|
+| **Frontend** | `React` `TypeScript` `Tailwind CSS` `Vercel` |
+| **Backend** | `Node.js` `Express` `REST API` |
+| **Database** | `MongoDB` |
+| **Auth** | `JWT` |
+
+---
+
+### 🎮 Mazer — Interactive Maze Game
+> A browser-based interactive maze game with smooth player movement, collision detection, and level progression — built entirely in vanilla JS.
+
+<div align="center">
+
+[![Repo](https://img.shields.io/badge/🕹️_Repo-Mazer--project-a855f7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhanadmedhat/Mazer-project-)
+
+</div>
+
+| Aspect | Detail |
+|:------:|:------:|
+| **Engine** | `Vanilla JavaScript` · DOM Game Loop |
+| **UI** | `HTML5 Canvas` · `CSS3` |
+| **Features** | Maze Generation · Collision Detection · Player Controls |
+
+---
+
+### 🏪 Store.Muhanad — E-Commerce REST API
+> Production-style ASP.NET Core Web API with full separation of concerns across 4 distinct layers — a showcase of clean architecture in .NET.
+
+<div align="center">
+
+[![Repo](https://img.shields.io/badge/Repo-Store.Muhanad.API-CC2927?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhanadmedhat/Store.Muhanad.API)
+
+</div>
+
+```
+📦 Store.Muhanad.API
+ ┣ 📂 APIs        → Controllers & Endpoints
+ ┣ 📂 Core        → Entities & Interfaces
+ ┣ 📂 Repository  → Data Access & EF Core
+ ┗ 📂 Service     → Business Logic
+```
+
+---
+
+### 🏢 Company Management System
+> Full-stack MVC web app for managing company data with classic 3-tier architecture — a solid demonstration of .NET MVC patterns.
+
+<div align="center">
+
+[![Repo](https://img.shields.io/badge/Repo-Company.Muhanad--solution-239120?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhanadmedhat/Company.Muhanad-solution)
+
+</div>
+
+| Stack | Details |
+|:-----:|:-------:|
+| `C#` `.NET MVC` | BLL · DAL · Presentation Layer |
+| `HTML` `CSS` `JS` | Razor Views with Bootstrap |
+
+---
 
 > 🔎 Explore all **52+ repositories** → [github.com/muhanadmedhat](https://github.com/muhanadmedhat?tab=repositories)
 
@@ -109,14 +170,20 @@ const muhanad = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhanadmedhat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhanadmedhat&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhanadmedhat&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhanadmedhat&theme=tokyonight" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=muhanadmedhat&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=muhanadmedhat&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhanadmedhat&theme=tokyonight)
 
 </div>
 
@@ -126,10 +193,10 @@ const muhanad = {
 
 ```
 📦 Clean Architecture (N-Tier)
- ┣ 📂 Presentation Layer  →  Controllers / Views / Angular / React
+ ┣ 📂 Presentation Layer   →  Controllers / Views / React / Angular
  ┣ 📂 Business Logic Layer →  Services / Use Cases
- ┣ 📂 Data Access Layer   →  Repositories / EF Core
- ┗ 📂 Core / Domain       →  Entities / Interfaces / DTOs
+ ┣ 📂 Data Access Layer    →  Repositories / EF Core
+ ┗ 📂 Core / Domain        →  Entities / Interfaces / DTOs
 ```
 
 ---
