@@ -11,7 +11,7 @@
 <br/><br/>
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhanadmedhat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhanad-medhat-60a4842a4)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/muhanad_medhat/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhanadmedhat)
 [![Cairo](https://img.shields.io/badge/📍_Cairo,_Egypt-E11D48?style=for-the-badge)](https://github.com/muhanadmedhat)
@@ -205,19 +205,9 @@ const muhanad = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhanadmedhat)
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhanad-medhat-60a4842a4)
 [![LeetCode](https://img.shields.io/badge/Grind_with_me_on_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/muhanad_medhat/)
 
 </div>
 
----
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
-
-*"First, solve the problem. Then, write the code."* — John Johnson
-
-![Visitor Count](https://komarev.com/ghpvc/?username=muhanadmedhat&color=58A6FF&style=flat-square&label=Profile+Views)
-
-</div>
